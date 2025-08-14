@@ -5,7 +5,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/gojue/ebpfmanager"
+	"github.com/Servicewall/ebpfmanager"
 )
 
 func demoTailCall() error {

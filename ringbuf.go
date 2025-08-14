@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 	"github.com/cilium/ebpf/ringbuf"
-	"github.com/gojue/ebpfmanager/kernel"
+	"github.com/Servicewall/ebpfmanager/kernel"
 )
 
 // RingbufMapOptions - Perf map specific options

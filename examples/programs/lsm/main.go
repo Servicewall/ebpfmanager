@@ -4,13 +4,13 @@ import (
 	"fmt"
 	"github.com/cilium/ebpf"
 	"github.com/cilium/ebpf/features"
-	"github.com/gojue/ebpfmanager/kernel"
+	"github.com/Servicewall/ebpfmanager/kernel"
 	"os"
 	"os/signal"
 	"runtime"
 	"time"
 
-	manager "github.com/gojue/ebpfmanager"
+	manager "github.com/Servicewall/ebpfmanager"
 	"github.com/sirupsen/logrus"
 )
 

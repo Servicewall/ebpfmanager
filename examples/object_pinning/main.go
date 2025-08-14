@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"github.com/gojue/ebpfmanager"
+	"github.com/Servicewall/ebpfmanager"
 	"github.com/sirupsen/logrus"
 )
 

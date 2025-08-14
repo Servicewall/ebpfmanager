@@ -9,7 +9,7 @@ import (
 	"log"
 	"time"
 
-	manager "github.com/gojue/ebpfmanager"
+	manager "github.com/Servicewall/ebpfmanager"
 )
 
 var Probe []byte

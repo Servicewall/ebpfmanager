@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/gojue/ebpfmanager"
+	"github.com/Servicewall/ebpfmanager"
 	"os"
 	"os/signal"
 	"time"

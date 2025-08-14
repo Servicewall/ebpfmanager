@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/cilium/ebpf"
-	"github.com/gojue/ebpfmanager"
+	"github.com/Servicewall/ebpfmanager"
 	"github.com/sirupsen/logrus"
 	"golang.org/x/sys/unix"
 	"math"

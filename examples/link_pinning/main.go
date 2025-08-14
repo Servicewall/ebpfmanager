@@ -4,7 +4,7 @@ import (
 	"flag"
 	"github.com/sirupsen/logrus"
 
-	manager "github.com/gojue/ebpfmanager"
+	manager "github.com/Servicewall/ebpfmanager"
 )
 
 var m = &manager.Manager{

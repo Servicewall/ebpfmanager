@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/sirupsen/logrus"
 
-	"github.com/gojue/ebpfmanager"
+	"github.com/Servicewall/ebpfmanager"
 	_ "github.com/shuLhan/go-bindata"
 )
 

@@ -3,7 +3,7 @@ package main
 import (
 	"bufio"
 	"errors"
-	"github.com/gojue/ebpfmanager"
+	"github.com/Servicewall/ebpfmanager"
 	"github.com/sirupsen/logrus"
 	"os"
 	"strings"

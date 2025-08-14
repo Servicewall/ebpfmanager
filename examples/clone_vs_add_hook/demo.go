@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/sirupsen/logrus"
 
-	"github.com/gojue/ebpfmanager"
+	"github.com/Servicewall/ebpfmanager"
 )
 
 func demoClone() error {

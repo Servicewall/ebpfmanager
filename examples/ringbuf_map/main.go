@@ -2,8 +2,8 @@ package main
 
 import (
 	_ "embed"
-	manager "github.com/gojue/ebpfmanager"
-	"github.com/gojue/ebpfmanager/kernel"
+	manager "github.com/Servicewall/ebpfmanager"
+	"github.com/Servicewall/ebpfmanager/kernel"
 	"github.com/sirupsen/logrus"
 )
 
